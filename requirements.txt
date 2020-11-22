@@ -1,0 +1,2 @@
+socket.py == 0.1.0
+argparse == 1.4.0
